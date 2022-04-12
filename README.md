@@ -21,4 +21,6 @@ we will be using.
 
 - fisrt we crate a basic component which will be shown all over in app.
 
+- for scorrling any div we need to give it a fix height or fix width and make the overflow auto
+
 -
